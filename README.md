@@ -1,5 +1,5 @@
 ## cpu-utilization
-save cpu utilization sequentially
+save cpu utilization to csv sequentially
 
 </br>
 
