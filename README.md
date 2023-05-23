@@ -6,5 +6,5 @@ save cpu utilization sequentially
 ## RUN
 
 ```bash
-$ python3 cpu_util.py 10
+$ python cpu_util.py 10
 ```
